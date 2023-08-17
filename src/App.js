@@ -1,6 +1,6 @@
-import Cards from "./Components/Cards.jsx";
+import Background from "./Components/Background";
 function App() {
-  return <Cards />;
+  return <Background />;
 }
 
 export default App;
